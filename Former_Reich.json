@@ -1,0 +1,23 @@
+{
+  "catalogue": {
+    "name": "Former Reich",
+    "id": "e7e8-ef06-dbb7-46a5",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "58d8-95a0-b1f0-a7d7",
+    "gameSystemRevision": 1,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "forceEntries": [
+      {"name": "Deutsches Bundesrepublik", "id": "a9eb-bc8e-98f6-b736", "hidden": false},
+      {"name": "Freikorps", "id": "426f-fc7a-bb5e-5f57", "hidden": false},
+      {"name": "Großdeutscheland", "id": "8f67-5461-9871-c47e", "hidden": false},
+      {"name": "Kriegsherren", "id": "9e55-08f7-eaab-30c6", "hidden": false},
+      {"name": "Oberkommando Brittania", "id": "6241-e070-880a-7672", "hidden": false},
+      {"name": "Tiroler Konigsreich", "id": "5478-3d17-8e9c-655f", "hidden": false},
+      {"name": "Volksfront", "id": "2ac8-c376-799b-495b", "hidden": false},
+      {"name": "Etat Francais", "id": "89b4-16de-d210-3ef1", "hidden": false},
+      {"name": "Nordlander Reichstaat", "id": "3a8a-b680-d013-631c", "hidden": false}
+    ]
+  }
+}

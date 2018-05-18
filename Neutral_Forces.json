@@ -1,0 +1,16 @@
+{
+  "catalogue": {
+    "name": "Neutral Forces",
+    "id": "12cd-b39e-a699-54b0",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "58d8-95a0-b1f0-a7d7",
+    "gameSystemRevision": 1,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "forceEntries": [
+      {"name": "Suomen Maavoimat", "id": "860b-3875-aa57-06b2", "hidden": false},
+      {"name": "Forças Armadas Brasileiras", "id": "2b82-e2ee-8bab-2342", "hidden": false}
+    ]
+  }
+}

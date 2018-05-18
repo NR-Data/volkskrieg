@@ -1,0 +1,17 @@
+{
+  "catalogue": {
+    "name": "Soviet",
+    "id": "1a63-4d50-19df-68ee",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "58d8-95a0-b1f0-a7d7",
+    "gameSystemRevision": 1,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "forceEntries": [
+      {"name": "People's Liberation Army", "id": "619d-57ec-54c4-522e", "hidden": false},
+      {"name": "Krasnaya Armiya Veterans", "id": "215c-a683-fe55-0f3e", "hidden": false},
+      {"name": "Mongolian People's Army", "id": "0d49-54e4-4114-3c6d", "hidden": false}
+    ]
+  }
+}

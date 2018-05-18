@@ -1,0 +1,18 @@
+{
+  "catalogue": {
+    "name": "United States",
+    "id": "b3d7-15ea-9d19-7a9a",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "58d8-95a0-b1f0-a7d7",
+    "gameSystemRevision": 1,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "forceEntries": [
+      {"name": "Detroit Partisans", "id": "0414-256e-b72d-0abd", "hidden": false},
+      {"name": "US Marine Corps", "id": "10a5-caa8-3e41-4b2d", "hidden": false},
+      {"name": "New England Partisans", "id": "3461-b399-cf19-df6d", "hidden": false},
+      {"name": "US Army", "id": "723c-667b-7dd8-563f", "hidden": false}
+    ]
+  }
+}

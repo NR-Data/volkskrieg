@@ -1,0 +1,19 @@
+{
+  "catalogue": {
+    "name": "Commonwealth",
+    "id": "e135-0e75-4345-65da",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "58d8-95a0-b1f0-a7d7",
+    "gameSystemRevision": 1,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "forceEntries": [
+      {"name": "Commonwealth Armed Forces", "id": "6958-8e5a-cff5-3e6a", "hidden": false},
+      {"name": "London Underground", "id": "5c65-5ac7-d62c-c36c", "hidden": false},
+      {"name": "Royal Air Force", "id": "142c-5d99-ee96-3dcd", "hidden": false},
+      {"name": "South African Armed Forces", "id": "09a9-b820-10f7-d99b", "hidden": false},
+      {"name": "Special Operations Executive", "id": "c8c4-8245-965b-8798", "hidden": false}
+    ]
+  }
+}

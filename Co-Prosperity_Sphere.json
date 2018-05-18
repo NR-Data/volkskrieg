@@ -1,0 +1,17 @@
+{
+  "catalogue": {
+    "name": "Co-Prosperity Sphere",
+    "id": "3c4f-28f2-884d-971c",
+    "battleScribeVersion": 2.03,
+    "gameSystemId": "58d8-95a0-b1f0-a7d7",
+    "gameSystemRevision": 1,
+    "revision": 1,
+    "type": "catalogue",
+    "xmlns": "http://www.battlescribe.net/schema/catalogueSchema",
+    "forceEntries": [
+      {"name": "Manchukuo", "id": "f018-1343-a98b-a871", "hidden": false},
+      {"name": "Oceanic Bloc", "id": "c6da-f7fd-3225-ef38", "hidden": false},
+      {"name": "Showa Restoration", "id": "a21b-8b6e-b143-2fca", "hidden": false}
+    ]
+  }
+}
